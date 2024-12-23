@@ -1,6 +1,6 @@
 # Advent of Code 2024
 
-## Finishing Tree <3
+## Finishing Image <3
 ![Finsihed Tree](images/finished.png)
 
 ## My Favourite Days
