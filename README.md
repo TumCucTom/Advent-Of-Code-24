@@ -7,6 +7,7 @@
 ### 1) [Day 14](/14) ANTI LLM? Xmas Trees
 You have to wonder if this question was made specifically for LLMs to struggle.
 This was good fun, even though I had to trial and error my size of connected areas down to 150.
+You can see my xmas tree [here](/14).
 
 ### 2) [Day 8](/8) Vectors
 It was great to see and use some of the vectors knowledge from first year and a-levels.
