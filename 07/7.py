@@ -47,5 +47,5 @@ def find_possible_true_equations(file_path):
     return total_calibration_result
 
 # Test with the example file "Data/7.txt"
-total_calibration = find_possible_true_equations("Data/7.txt")
+total_calibration = find_possible_true_equations("../Data/7.txt")
 print(total_calibration)
