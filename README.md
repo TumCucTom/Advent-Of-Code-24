@@ -32,3 +32,9 @@ We were solving for **integer solutions** to a linear equation, which was intere
 
 Briefly encountered cliques in data and algos too. Was nice to implement the Bron-Kerbosch algorithm.
 
+## Finishing Notes:
+
+I didn't really challenge myself this year and just did it in python which is easy and comfortably for me.
+
+Next year I would like to learn Rust and compete in the [Codspeed](https://codspeed.io/advent?utm_source=aoc) Aoc challenge. I'll probably redo a previous year in Rust soon!
+
