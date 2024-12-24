@@ -9,7 +9,7 @@ You have to wonder if this question was made specifically for LLMs to struggle.
 This was good fun, even though I had to trial and error my size of connected areas down to 150.
 You can see my xmas tree [here](/14).
 
-### 2) [Day 24][/24] Pen and Paper IDE
+### 2) [Day 24](/24) Pen and Paper IDE
 Part one was trivial, but I sat for a while trying to come up with an optimised way of solving the problem.
 
 Eventually, using code to find the 8 incorrect paths and knowing we were creating adders: I found the gates by hand with :
