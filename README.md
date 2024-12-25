@@ -1,7 +1,9 @@
 # Advent of Code 2024
 
 ## Finishing Image <3
-![Finsihed Tree](images/finished.png)
+<video>
+  <source src="images/finished_video.mov" type="video/mp4">
+</video>
 
 ## My Favourite Days
 ### 1) [Day 14](/14) Anti LLM? Xmas Trees
