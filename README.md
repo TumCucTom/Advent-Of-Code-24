@@ -34,7 +34,7 @@ Briefly encountered cliques in data and algos too. Was nice to implement the Bro
 
 ## Finishing Notes:
 
-I didn't really challenge myself this year and just did it in python which is easy and comfortably for me.
+I didn't really challenge myself this year and just did it in python (which im comfortable with) and didn't go for speed (in running time or leaderboard). 
 
 Next year I would like to learn Rust and compete in the [Codspeed](https://codspeed.io/advent?utm_source=aoc) Aoc challenge. I'll probably redo a previous year in Rust soon!
 
